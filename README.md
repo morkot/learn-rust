@@ -2,6 +2,13 @@
 
 learn-rust
 
+## Installation on mac
+
+```shell
+brew install rustup-init
+rustup-init
+```
+
 ## Hello world
 
 ### Project managemnt with Cargo
