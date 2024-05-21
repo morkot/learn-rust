@@ -26,3 +26,13 @@ cargo run
 https://code.visualstudio.com/docs/languages/rust
 - Format with rustfmt
 - Add gitignore for Rust
+
+## explore_key_features
+
+### Ownership
+
+```shell
+cd explore_key_features/src
+rustc ownership_issue.rs
+rustc ownership_fine.rs
+```
