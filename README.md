@@ -2,6 +2,11 @@
 
 learn-rust
 
+## Resources
+
+- [Learn Rust Programming - Complete Course ](https://www.youtube.com/watch?v=BpPEoZW5IiY)
+- [Rust By Practice](https://practice.course.rs/why-exercise.html)
+
 ## Installation on mac
 
 ```shell
